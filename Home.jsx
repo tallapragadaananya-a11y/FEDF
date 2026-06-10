@@ -12,11 +12,16 @@ function Home() {
 
         <p>
         Save products you love, organize wishlists,
-        track price drops, and shop smarter with
-        your personal shopping companion.
+        track price drops, and manage your
+        shopping journey in one secure place.
         </p>
 
-        <button>Explore Products</button>
+        <div className="hero-buttons">
+        <button>Get Started</button>
+        <button className="secondary-btn">
+        Sign In
+        </button>
+        </div>
         </div>
       </div>
     </>
