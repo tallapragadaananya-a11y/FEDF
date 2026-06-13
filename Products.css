@@ -1,0 +1,12 @@
+.products-page {
+
+  padding: 40px;
+}
+
+.product-grid {
+
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 30px;
+}
